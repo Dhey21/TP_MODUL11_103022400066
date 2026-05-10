@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dddzu\\source\\repos\\TP_MODUL11_103022400066\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{241D8020-399D-48BD-BA29-7581EF80F85E}|..\\AljabarLibraries\\AljabarLibraries.csproj|c:\\users\\dddzu\\source\\repos\\aljabarlibraries\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822B9A4-B01F-4F95-A30D-86BB68F34AF9}|TP_MODUL11_103022400066.csproj|c:\\users\\dddzu\\source\\repos\\tp_modul11_103022400066\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822B9A4-B01F-4F95-A30D-86BB68F34AF9}|TP_MODUL11_103022400066.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241D8020-399D-48BD-BA29-7581EF80F85E}|..\\AljabarLibraries\\AljabarLibraries.csproj|c:\\users\\dddzu\\source\\repos\\aljabarlibraries\\aljabarlibraries.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AljabarLibraries",
+              "DocumentMoniker": "C:\\Users\\dddzu\\source\\repos\\AljabarLibraries\\AljabarLibraries.csproj",
+              "RelativeDocumentMoniker": "..\\AljabarLibraries\\AljabarLibraries.csproj",
+              "ToolTip": "C:\\Users\\dddzu\\source\\repos\\AljabarLibraries\\AljabarLibraries.csproj",
+              "RelativeToolTip": "..\\AljabarLibraries\\AljabarLibraries.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-10T06:39:51.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\dddzu\\source\\repos\\AljabarLibraries\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\AljabarLibraries\\Class1.cs",
+              "ToolTip": "C:\\Users\\dddzu\\source\\repos\\AljabarLibraries\\Class1.cs",
+              "RelativeToolTip": "..\\AljabarLibraries\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:38:52.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dddzu\\source\\repos\\TP_MODUL11_103022400066\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dddzu\\source\\repos\\TP_MODUL11_103022400066\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:37:33.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
